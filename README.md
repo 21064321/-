@@ -2,12 +2,6 @@
 
 这是一个使用Python编写的剪切板轰炸工具。它可以读取剪切板中的第一条文本，并在指定程序中重复执行粘贴发送操作。循环次数由用户决定。
 
-## 安装要求
-
-1. 安装Python 3.1.2解释器。
-2. 安装`pyinstaller`库：在终端中运行`pip install pyinstaller`。
-3. 安装`pyautogui`库：在终端中运行`pip install pyautogui`。
-
 ## 使用方法
 
 1. 下载可执行文件并双击运行。
